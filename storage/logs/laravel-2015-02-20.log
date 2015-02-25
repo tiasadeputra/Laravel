@@ -1,0 +1,95 @@
+[2015-02-20 11:22:22] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 11:28:11] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 11:32:11] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 11:36:36] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 11:40:23] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:00:49] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:05:26] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:05:38] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:07:38] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:12:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:15:28] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:17:39] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:18:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\storage\framework\compiled.php:6383
+Stack trace:
+#0 C:\xampp\htdocs\laravel\storage\framework\compiled.php(1721): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:21:43] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:22:33] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Illuminate\Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:23:36] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Illuminate\Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:35:23] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:43:06] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  
+[2015-02-20 12:45:41] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cartalyst\DataGrid\Laravel\DataGridServiceProvider' not found' in C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 C:\xampp\htdocs\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(116): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}  

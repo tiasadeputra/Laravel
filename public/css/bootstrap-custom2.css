@@ -1,0 +1,123 @@
+/* 
+    Document   : bootstrap-custom
+    Created on : Jan 29, 2014, 4:14:11 PM
+    Author     : ismt
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+ /* extend */
+.dropdown-submenu{position:relative;}
+.dropdown-submenu>.dropdown-menu{top:0;left:100%;margin-top:-6px;margin-left:-1px;-webkit-border-radius:0 6px 6px 6px;-moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;}
+.dropdown-submenu:hover>.dropdown-menu{display:block;}
+.dropdown-submenu>a:after{display:block;content:" ";float:right;width:0;height:0;border-color:transparent;border-style:solid;border-width:5px 0 5px 5px;border-left-color:#cccccc;margin-top:5px;margin-right:-10px;}
+.dropdown-submenu:hover>a:after{border-left-color:#ffffff;}
+.dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left>.dropdown-menu{left:-100%;margin-left:10px;-webkit-border-radius:6px 0 6px 6px;-moz-border-radius:6px 0 6px 6px;border-radius:6px 0 6px 6px;}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 20px;
+    height: 35px;
+    padding-top: 8px;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: #0086B2;
+    border-color: #ffcb97;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: #FFF;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #EA5902;
+}
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #FFF;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #FFF;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: #ffcb97;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color: #EA5902;
+}
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #FFF;
+    border-bottom-color: #FFF;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #854200;
+    border-bottom-color: #854200;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+/* mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #CCC;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #FFF;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #854200;
+    }
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #ff7f00;
+}
+
+.page-header {margin: 0px;padding-bottom: 0px;margin-bottom: 5px;}
+
+.personel {padding-right: 5px;padding-left: 5px;}
+.form-control {width: auto}
+fieldset {margin-top: 20px;}
+.datagrid_bar_customize input{margin-top: -5px; margin-right: 5px;}
+.table .info {background-color: #D9EDF7;}
+.emp_attr {margin: 0px 0px;font-weight: bold;}
+.emp_attr_name {font-size: 18px;font-weight: bold;}
+.bar-skala {width: 50px;}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    cursor: not-allowed;
+    background-color: #fcfcfc;
+}
+.green {color: green;}
+.red {color: red;}
+
+.sceditor-toolbar *, *:before, *:after {box-sizing: content-box;}
+
+.ui-datepicker {z-index: 1001 !important;}
+
+.input-group-addon {padding: 0px 5px;}
+
+.checkbox-inline {min-width: 200px;margin-left: 10px;}
